@@ -13,6 +13,6 @@ Dependencies:
 
 Usage:
 ------
-*   Fetch links: <F5>p
-*   Open link under cursor in new browser tab: <F5>o
-*   Open comments for the link under cursor in new browser tab: <F5>c
+*   Fetch links: `<F5>p`
+*   Open link under cursor in new browser tab: `<F5>o`
+*   Open comments for the link under cursor in new browser tab: `<F5>c`
